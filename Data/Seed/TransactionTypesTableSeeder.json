@@ -1,0 +1,27 @@
+﻿[
+  {
+    "TransactionTypeId": 1,
+    "TransactionTypeDescription": "School Fees",
+    "MaxAmountInDollars": "15,000"
+  },
+  {
+    "TransactionTypeId": 2,
+    "TransactionTypeDescription": "Medical Bill",
+    "MaxAmountInDollars": "No Cap"
+  },
+  {
+    "TransactionTypeId": 3,
+    "TransactionTypeDescription": "PTA",
+    "MaxAmountInDollars": "4,000"
+  },
+  {
+    "TransactionTypeId": 4,
+    "TransactionTypeDescription": "BTA",
+    "MaxAmountInDollars": "5,000"
+  },
+  {
+    "TransactionTypeId": 5,
+    "TransactionTypeDescription": "MTA",
+    "MaxAmountInDollars": "5,000"
+  }
+]

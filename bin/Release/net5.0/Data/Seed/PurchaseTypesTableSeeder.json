@@ -1,0 +1,22 @@
+﻿[
+  {
+    "PurchaseTypeId": 1,
+    "PurchaseTypeDescription": "Adult"
+  },
+  {
+    "PurchaseTypeId": 2,
+    "PurchaseTypeDescription": "Minor"
+  },
+  {
+    "PurchaseTypeId": 3,
+    "PurchaseTypeDescription": "Company"
+  },
+  {
+    "PurchaseTypeId": 4,
+    "PurchaseTypeDescription": "Walk-in"
+  },
+  {
+    "PurchaseTypeId": 5,
+    "PurchaseTypeDescription": "Others (State in Purpose)"
+  }
+]
